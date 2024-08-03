@@ -1,0 +1,100 @@
+﻿@using System.Security.Claims
+@model EntertainmentApp.WebUI.Models.EntertainmentDetailViewModel
+
+@{
+    ViewData["Title"] = "Entertainment Details";
+}
+
+<h1>@Model.Entertainment.Title</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="@Url.Content($"~/{Model.Entertainment.ImageURL.Replace("\\", "/")}")" class="card-img-top" alt="@Model.Entertainment.Title" style="height: 250px; object-fit: cover; width: 100%;" />
+    </div>
+    <div class="col-md-6">
+    
+         <p><strong>Release date:</strong> @Model.Entertainment.ReleaseDate</p>
+        <p><strong>Description:</strong> @Model.Entertainment.Description</p>
+        <p><strong>Genre:</strong> @Model.Entertainment.Genre.Name</p>
+        <p><strong>Creator:</strong> @Model.Entertainment.Creator.Name</p>
+        <p><strong>Category:</strong> @Model.Entertainment.Category.ToString()</p>
+        @if (Model.AverageRating.HasValue)
+        {
+                <p><strong>Average Score:</strong> @Model.AverageRating.Value.ToString("0.0") / 10</p>
+        }
+        else
+        {
+                <p><strong>Average Score:</strong> No ratings yet</p>
+        }
+        @if (User.HasClaim("CanManageCatalog", "true"))
+        {
+                    <a asp-action="Edit" asp-route-id="@Model.Entertainment.Id" class="btn btn-primary">Edit</a>
+                    <form asp-action="Delete" asp-route-id="@Model.Entertainment.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this item?');" style="display:inline;">
+                @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+        }
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+<h2>Reviews</h2>
+
+@foreach (var review in Model.Reviews)
+{
+            <div class="review">
+                <h4>@review.Comment</h4>
+                <p>Rating: @review.Rating / 10</p>
+                <p>By: @review.reviewerName</p>
+
+        @* kijken of nu gebruiker geliked heeft of niet *@
+        @{
+            var currentUserLike = review.UserLikes.FirstOrDefault(ul => ul.UserId == User.FindFirstValue(ClaimTypes.NameIdentifier));
+        }
+                <div style="display: flex; align-items: center;">
+                    <form asp-action="LikeReview" asp-route-reviewId="@review.Id" method="post" style="margin-right: 10px;">
+                @Html.AntiForgeryToken()
+                        <input type="hidden" name="entertainmentId" value="@Model.Entertainment.Id" />
+                        <button type="submit" class="btn btn-outline-primary">
+                    @if (currentUserLike != null && currentUserLike.IsLiked)
+                    {
+                        @:Unlike
+                    }
+                    else
+                    {
+                        @:Like
+                    }
+                        </button>
+                    </form>
+                    <span> (@review.UserLikes.Count(ul => ul.IsLiked))</span>
+                </div>
+
+ 
+        @if (User.HasClaim("CanManageCatalog", "true") || review.UserId == User.FindFirstValue(ClaimTypes.NameIdentifier))
+        {
+                            <form asp-action="DeleteReview" asp-route-reviewId="@review.Id" asp-route-entertainmentId="@Model.Entertainment.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this review?');">
+                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-danger">Delete Review</button>
+                            </form>
+        }
+            </div>
+}
+
+<h2>Add a Review</h2>
+
+<form asp-action="AddReview" asp-controller="Entertainment" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="NewReview.EntertainmentId" />
+    <div class="form-group">
+        <label for="comment">Comment:</label>
+        <textarea class="form-control" id="comment" rows="3" asp-for="NewReview.Comment"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="rating">Rating (1-10):</label>
+        <input type="number" class="form-control" id="rating" asp-for="NewReview.Rating" min="1" max="10" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit Review</button>
+</form>

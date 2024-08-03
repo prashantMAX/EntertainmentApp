@@ -1,0 +1,17 @@
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Infrastructure.deps.json
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Infrastructure.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Infrastructure.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Domain.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Domain.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.AssemblyInfo.cs
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.csproj.CopyComplete
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\refint\EntertainmentApp.Infrastructure.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\EntertainmentApp.Infrastructure.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\obj\Debug\net8.0\ref\EntertainmentApp.Infrastructure.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Application.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Infrastructure\bin\Debug\net8.0\EntertainmentApp.Application.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EntertainmentApp.WebUI.props" />
+</Project>

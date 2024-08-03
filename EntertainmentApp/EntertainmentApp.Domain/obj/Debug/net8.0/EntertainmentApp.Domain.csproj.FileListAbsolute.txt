@@ -1,0 +1,11 @@
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\bin\Debug\net8.0\EntertainmentApp.Domain.deps.json
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\bin\Debug\net8.0\EntertainmentApp.Domain.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\bin\Debug\net8.0\EntertainmentApp.Domain.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.AssemblyInfo.cs
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\refint\EntertainmentApp.Domain.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\EntertainmentApp.Domain.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Domain\obj\Debug\net8.0\ref\EntertainmentApp.Domain.dll

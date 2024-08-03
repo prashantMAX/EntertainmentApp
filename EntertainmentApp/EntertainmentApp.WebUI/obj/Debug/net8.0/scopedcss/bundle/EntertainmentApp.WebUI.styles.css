@@ -1,0 +1,70 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
+/* _content/EntertainmentApp.WebUI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbarbrand[b-oxukovpwsu] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: white;
+  font-size:5em;
+}
+.navbar-brand[b-oxukovpwsu]{
+    color:white
+}
+a[b-oxukovpwsu] {
+  color: white;
+  font-size:larger;
+}
+
+.btn-primary[b-oxukovpwsu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-oxukovpwsu], .nav-pills .show > .nav-link[b-oxukovpwsu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-oxukovpwsu] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-oxukovpwsu] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-oxukovpwsu] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-oxukovpwsu] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-oxukovpwsu] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+.navbar[b-oxukovpwsu] {
+    background-image: url('/images/Entertainment.jpg');
+
+    text-align: center;
+    background-size: cover; /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    padding: 2rem;
+    margin-top: 0;
+}
+.text-light-big[b-oxukovpwsu] {
+    font-size: 3rem; /* Adjust the size as needed */
+}

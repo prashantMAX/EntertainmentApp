@@ -1,0 +1,15 @@
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\bin\Debug\net8.0\EntertainmentApp.Application.deps.json
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\bin\Debug\net8.0\EntertainmentApp.Application.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\bin\Debug\net8.0\EntertainmentApp.Application.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\bin\Debug\net8.0\EntertainmentApp.Domain.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\bin\Debug\net8.0\EntertainmentApp.Domain.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.csproj.AssemblyReference.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.AssemblyInfoInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.AssemblyInfo.cs
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.csproj.CopyComplete
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\refint\EntertainmentApp.Application.dll
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\EntertainmentApp.Application.pdb
+C:\Users\prash\OneDrive\Desktop\BAD\EntertainmentApp\EntertainmentApp.Application\obj\Debug\net8.0\ref\EntertainmentApp.Application.dll

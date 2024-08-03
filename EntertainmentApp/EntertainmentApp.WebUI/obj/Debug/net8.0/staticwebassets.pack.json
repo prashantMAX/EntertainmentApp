@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EntertainmentApp.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EntertainmentApp.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\images\\Entertainment.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\images\\Entertainment1.jpg",
+      "PackagePath": "staticwebassets\\images\\Entertainment1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\0db15963-c993-432c-bcfe-c852c7c74e1a_inception.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0db15963-c993-432c-bcfe-c852c7c74e1a_inception.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\16ebd3f7-67a8-45c5-b74b-24feb9fffa18_ss-living.png",
+      "PackagePath": "staticwebassets\\uploads\\16ebd3f7-67a8-45c5-b74b-24feb9fffa18_ss-living.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\1778b157-6dd8-422c-85f4-b9e8b42d1d43_ss-bedroom.png",
+      "PackagePath": "staticwebassets\\uploads\\1778b157-6dd8-422c-85f4-b9e8b42d1d43_ss-bedroom.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\3b653bd4-ed9e-443e-9f6f-03f49b12e36a_sandesh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3b653bd4-ed9e-443e-9f6f-03f49b12e36a_sandesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\57ce5fef-1150-4e4f-829c-65ec2d1510dd_ss-bedroom.png",
+      "PackagePath": "staticwebassets\\uploads\\57ce5fef-1150-4e4f-829c-65ec2d1510dd_ss-bedroom.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\62229a76-a131-4700-ab80-587f166c1814_sandesh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\62229a76-a131-4700-ab80-587f166c1814_sandesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\6be09a5e-79a6-4fc8-9b14-9e8943482db0_ss-living.png",
+      "PackagePath": "staticwebassets\\uploads\\6be09a5e-79a6-4fc8-9b14-9e8943482db0_ss-living.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\707a7e2b-55ed-4d04-9f53-c1edef951452_333333.PNG",
+      "PackagePath": "staticwebassets\\uploads\\707a7e2b-55ed-4d04-9f53-c1edef951452_333333.PNG"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\88f4e7c6-d689-41d1-a67e-1f1ec2bbb8bb_sandesh.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88f4e7c6-d689-41d1-a67e-1f1ec2bbb8bb_sandesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\98c6082f-c4a3-40c3-9d3c-406ba1505e47_ss-living.png",
+      "PackagePath": "staticwebassets\\uploads\\98c6082f-c4a3-40c3-9d3c-406ba1505e47_ss-living.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\c16eb8fa-1379-4129-9082-68e5e491685f_warmtepomp.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c16eb8fa-1379-4129-9082-68e5e491685f_warmtepomp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\c1987733-720e-4666-846d-a4231fdd2f28_ss-computer.png",
+      "PackagePath": "staticwebassets\\uploads\\c1987733-720e-4666-846d-a4231fdd2f28_ss-computer.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\c3b183fb-fa5c-4cbc-82be-2207dafa3fa3_Capture.PNG",
+      "PackagePath": "staticwebassets\\uploads\\c3b183fb-fa5c-4cbc-82be-2207dafa3fa3_Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\c7334e20-f25a-4ebe-8d8b-0751a274d53a_ss-living.png",
+      "PackagePath": "staticwebassets\\uploads\\c7334e20-f25a-4ebe-8d8b-0751a274d53a_ss-living.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\d5086012-8d63-46e6-be08-71f923077569_Capture.PNG",
+      "PackagePath": "staticwebassets\\uploads\\d5086012-8d63-46e6-be08-71f923077569_Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\default-movie.png",
+      "PackagePath": "staticwebassets\\uploads\\default-movie.png"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\df9e0e90-5e6f-4921-bf2f-975f47c8ceb8_warmtepomp.jpg",
+      "PackagePath": "staticwebassets\\uploads\\df9e0e90-5e6f-4921-bf2f-975f47c8ceb8_warmtepomp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\e7477a9c-f701-4bd0-8479-6df4f1beb5ae_NarutoCoverTankobon1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e7477a9c-f701-4bd0-8479-6df4f1beb5ae_NarutoCoverTankobon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\f86723d1-2310-4df5-8bba-da9beabf472d_Capture.PNG",
+      "PackagePath": "staticwebassets\\uploads\\f86723d1-2310-4df5-8bba-da9beabf472d_Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\prash\\OneDrive\\Desktop\\BAD\\EntertainmentApp\\EntertainmentApp.WebUI\\wwwroot\\uploads\\f8ea2a57-a499-47b9-9a64-111a632facfd_ss-living.png",
+      "PackagePath": "staticwebassets\\uploads\\f8ea2a57-a499-47b9-9a64-111a632facfd_ss-living.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EntertainmentApp.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EntertainmentApp.WebUI.props",
+      "PackagePath": "build\\EntertainmentApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EntertainmentApp.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\EntertainmentApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EntertainmentApp.WebUI.props",
+      "PackagePath": "buildTransitive\\EntertainmentApp.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
